@@ -1,0 +1,78 @@
+
+
+    div {
+        padding: 50px;
+        animation: element 4s infinite;
+      }
+      @keyframes element {
+        100%{
+          background-color: #176145;
+      }
+        0% {
+          background-color: rgb(65, 128, 84);
+        }
+        50% {
+          background-color: #178859;
+        }
+        100% {
+          background-color: #369671;
+        }
+        50%{
+            background-color: #21855f;
+        }
+        100%{
+            background-color: #176145;
+        }
+      }
+    
+      
+    
+div {
+  
+  color: rgb(7, 1, 1);
+  padding: 22px;
+}
+
+.smallcaps {
+    font-variant: small-caps;
+  }
+
+
+body {
+  background-color: rgb(119, 202, 144);
+}
+
+
+.margin-top {
+  margin-top: 5%;
+  background-color: rgb(80, 133, 103);
+}
+
+
+div {
+  background-color: rgb(224, 230, 173);
+  padding: 20px 15px 35px;
+}
+
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+  line-break: normal;
+}
+
+
+h1 {
+  font-size: 30px;
+}
+
+
+p {
+  font-size: 18px;
+}
+
+
+
+
+
+
